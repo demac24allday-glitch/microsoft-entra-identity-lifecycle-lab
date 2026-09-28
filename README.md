@@ -145,7 +145,7 @@ Ethan Cole transferred from the Sales department to Finance.
 
 Removing access from the previous department helps prevent **access creep**, where users accumulate permissions that are no longer required for their current job responsibilities.
 
-![Ethan Mover](https://raw.githubusercontent.com/demac24allday-glitch/microsoft-entra-identity-lifecycle-lab/main/screenshots/05-mover-ethan.png)
+![Ethan Mover](https://github.com/demac24allday-glitch/microsoft-entra-identity-lifecycle-lab/blob/main/screenshots/05-mover-ethan.png?raw=1)
 
 ---
 
