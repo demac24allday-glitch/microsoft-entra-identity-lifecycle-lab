@@ -212,6 +212,22 @@ This project reinforced several important IAM concepts:
 
 ---
 
+## PowerShell Automation
+
+A Microsoft Graph PowerShell script is included to demonstrate automation of the Joiner-Mover-Leaver lifecycle.
+
+The script performs:
+
+- New user creation
+- Department and job title updates
+- Security group membership changes
+- User account disabling
+- Sign-in session revocation
+
+See the script here:
+
+[`scripts/user-lifecycle.ps1`](scripts/user-lifecycle.ps1)
+
 # Next Steps
 
 Future improvements to this project will include:
