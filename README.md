@@ -95,13 +95,13 @@ Users were created in Microsoft Entra ID with department and job title attribute
 
 Departmental security groups were then created to manage access based on business function.
 
-![Users Overview](./screenshots//01-users-overview.png)
+![Users Overview](screenshots/01-users-overview.png)
 
-![Security Groups](./screenshots/02-security-groups.png)
+![Security Groups](screenshots/02-security-groups.png)
 
 Example Finance group membership:
 
-![Finance Group](./screenshots/03-finance-members.png)
+![Finance Group](screenshots/03-finance-members.png)
 
 ---
 
@@ -123,7 +123,7 @@ Daniel Kim joined Contoso Financial Services as a Junior Financial Analyst.
 
 Access was granted based on Daniel's business role rather than providing broad access to organizational resources.
 
-![Daniel Joiner](./screenshots/04-joiner-daniel.png)
+![Daniel Joiner](screenshots/04-joiner-daniel.png)
 
 ---
 
@@ -145,7 +145,7 @@ Ethan Cole transferred from the Sales department to Finance.
 
 Removing access from the previous department helps prevent **access creep**, where users accumulate permissions that are no longer required for their current job responsibilities.
 
-![Ethan Mover](https://github.com/demac24allday-glitch/microsoft-entra-identity-lifecycle-lab/blob/main/screenshots/05-mover-ethan.png?raw=1)
+![Ethan Mover](screenshots/05-mover-ethan.png)
 
 ---
 
@@ -167,7 +167,7 @@ Ava Carter left Contoso Financial Services.
 
 Disabling access before account deletion helps immediately prevent unauthorized access while preserving the identity for auditing, retention, investigation, or downstream administrative processes.
 
-![Ava Leaver](./screenshots/06-leaver-ava.png)
+![Ava Leaver](screenshots/06-leaver-ava.png)
 
 ---
 
